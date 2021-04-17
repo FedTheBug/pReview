@@ -1,4 +1,13 @@
-/admin/.idea/
+.idea/
+
+#Admin Site
+/admin/.idea
 /admin/.dbdata
+
+#Main aApp
+/main/.idea
+/main/.dbdata
+/main/__pycache__/
+
 /env/
 /admin/.DS_Store
